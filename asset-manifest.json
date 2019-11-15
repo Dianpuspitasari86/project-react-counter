@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-react-counter/static/css/main.1ca76682.chunk.css",
+    "main.js": "/project-react-counter/static/js/main.255f0131.chunk.js",
+    "main.js.map": "/project-react-counter/static/js/main.255f0131.chunk.js.map",
+    "runtime-main.js": "/project-react-counter/static/js/runtime-main.30eee51c.js",
+    "runtime-main.js.map": "/project-react-counter/static/js/runtime-main.30eee51c.js.map",
+    "static/js/2.6317a451.chunk.js": "/project-react-counter/static/js/2.6317a451.chunk.js",
+    "static/js/2.6317a451.chunk.js.map": "/project-react-counter/static/js/2.6317a451.chunk.js.map",
+    "index.html": "/project-react-counter/index.html",
+    "precache-manifest.eb91aa881743dc489e74d41c762db2cd.js": "/project-react-counter/precache-manifest.eb91aa881743dc489e74d41c762db2cd.js",
+    "service-worker.js": "/project-react-counter/service-worker.js",
+    "static/css/main.1ca76682.chunk.css.map": "/project-react-counter/static/css/main.1ca76682.chunk.css.map",
+    "static/media/sea.jpeg": "/project-react-counter/static/media/sea.c68a17bf.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30eee51c.js",
+    "static/js/2.6317a451.chunk.js",
+    "static/css/main.1ca76682.chunk.css",
+    "static/js/main.255f0131.chunk.js"
+  ]
+}
