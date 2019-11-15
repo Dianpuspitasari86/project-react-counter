@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+.counter {
+  margin-top: 30px;
+}
+
+button {
+  margin: 30px;
+  color: wheat;
+  background: black;
+}
